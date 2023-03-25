@@ -1,0 +1,4 @@
+* Aritmética
+Apuntes sobre como hacer operaciones basicas en bash.
+
+[[https://imgur.com/PZbkDCT]]
